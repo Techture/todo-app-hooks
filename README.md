@@ -17,7 +17,3 @@
 4. [x] No using class components, only use function components with hooks
 5. [x] No using redux or any other state management library.
 6. [ ] Each todo item should have an edit button, a delete button and a toggle done button. Clicking delete, deletes that item from the list. Clicking edit allows you to edit the name of the todo item inline. Clicking toggle done toggles the state of the todo from done to not done, this should be displayed like a radio button.
-
-## github repo
-
-https://github.com/Techture/todo-v1
